@@ -3,4 +3,5 @@
     <filter root="/apps/vodafone/clientlibs"/>
     <filter root="/apps/vodafone/components"/>
     <filter root="/apps/vodafone/i18n"/>
+    <filter root="/apps/msm/vodafone_blueprint" mode="merge"/>
 </workspaceFilter>

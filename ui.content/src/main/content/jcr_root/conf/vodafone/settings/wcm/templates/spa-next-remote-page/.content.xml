@@ -2,11 +2,8 @@
 <jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
     jcr:primaryType="cq:Template">
     <jcr:content
-        cq:lastModified="{Date}2021-04-26T19:42:59.171+05:30"
-        cq:lastModifiedBy="admin"
-        jcr:description="Vodafone Sites Project Remote Next.js Page Template"
         jcr:primaryType="cq:PageContent"
+        jcr:description="Vodafone Sites Project Remote Next.js Page Template"
         jcr:title="Remote Next.js Page"
-        fileReference="/content/dam/vodafone/Vodafone-Icon-PNG.png"
         status="enabled"/>
 </jcr:root>
