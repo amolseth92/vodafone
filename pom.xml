@@ -47,7 +47,6 @@
         <sling.password>admin</sling.password>
         <vault.user>admin</vault.user>
         <vault.password>admin</vault.password>
-        <core.wcm.components.version>2.15.2</core.wcm.components.version>
 
         <bnd.version>5.1.2</bnd.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -571,24 +570,6 @@ Bundle-DocURL:
                 <artifactId>aem-sdk-api</artifactId>
                 <version>${aem.sdk.api}</version>
                 <scope>provided</scope>
-            </dependency>
-            <dependency>
-                <groupId>com.adobe.cq</groupId>
-                <artifactId>core.wcm.components.examples.ui.apps</artifactId>
-                <type>zip</type>
-                <version>${core.wcm.components.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>com.adobe.cq</groupId>
-                <artifactId>core.wcm.components.examples.ui.content</artifactId>
-                <type>zip</type>
-                <version>${core.wcm.components.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>com.adobe.cq</groupId>
-                <artifactId>core.wcm.components.examples.ui.config</artifactId>
-                <version>${core.wcm.components.version}</version>
-                <type>zip</type>
             </dependency>
 
             <!-- SPA Project Core (includes hierarchy page model) -->
