@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/vodafone/clientlibs"/>
+    <filter root="/apps/vodafone/components"/>
+    <filter root="/apps/vodafone/i18n"/>
+</workspaceFilter>

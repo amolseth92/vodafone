@@ -1,0 +1,10 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/vodafone",
+        "create path (nt:unstructured) /content/dam/vodafone/jcr:content",
+        "set properties on /content/dam/vodafone/jcr:content",
+        "set cq:conf{String} to /conf/vodafone",
+        "set jcr:title{String} to \"Vodafone Sites Project\"",
+        "end"
+    ]
+}

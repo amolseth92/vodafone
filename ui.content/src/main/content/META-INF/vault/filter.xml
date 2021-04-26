@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/vodafone" mode="merge"/>
+    <filter root="/content/vodafone" mode="merge"/>
+    <filter root="/content/dam/vodafone/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/vodafone" mode="merge"/>
+</workspaceFilter>
