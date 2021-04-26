@@ -34,9 +34,9 @@
                     jcr:title="Content Image"
                     sling:resourceType="wcm/core/components/policy/policy"
                     allowedRenditionWidths="[320,480,600,800,1024,1200,1600]"
-                    disableLazyLoading="false"
                     allowUpload="false"
                     altValueFromDAM="true"
+                    disableLazyLoading="false"
                     displayPopupTitle="true"
                     isDecorative="false"
                     jpegQuality="{Long}85"
@@ -353,8 +353,7 @@
                     sling:resourceType="wcm/core/components/policy/policy"
                     clientlibs="[vodafone.react]"
                     isRoot="{Boolean}true"
-                    structureDepth="3"
-                />
+                    structureDepth="3"/>
             </spa>
         </components>
     </vodafone>
@@ -370,7 +369,7 @@
                         components="[/libs/wcm/foundation/components/responsivegrid,/apps/vodafone/components/text]">
                         <jcr:content jcr:primaryType="nt:unstructured"/>
                     </spa-default>
-                    </responsivegrid>
+                </responsivegrid>
             </components>
         </foundation>
     </wcm>

@@ -4,8 +4,11 @@
     <jcr:content
         cq:created="{Date}2018-10-22T17:08:28.689+05:30"
         cq:createdBy="admin"
-        jcr:primaryType="cq:PageContent"
+        cq:lastModified="{Date}2021-04-26T19:43:27.256+05:30"
+        cq:lastModifiedBy="admin"
         jcr:description="Vodafone Sites Project Page Template"
+        jcr:primaryType="cq:PageContent"
         jcr:title="SPA Page"
+        fileReference="/content/dam/vodafone/Vodafone-Icon-PNG.png"
         status="enabled"/>
 </jcr:root>
